@@ -1,0 +1,496 @@
+Adelanto
+Cupertino
+La Mesa
+Oakdale
+San Pablo
+Agoura
+Cypress
+La Mirada
+Oakland
+San Pedro
+Agoura Hills
+Daly City
+La Palma
+Oakley
+San Rafael
+Alameda
+Dana Point
+La Presa
+Oceanside
+San Ramon
+Alamo
+Danville
+La Puente
+Oildale
+Sanger
+Albany
+Davis
+La Quinta
+Olivehurst
+Santa Ana
+Alhambra
+Del Aire
+La Riviera
+Ontario
+Santa Barbara
+Aliso Viejo
+Delano
+La Verne
+Orange
+Santa Clara
+Alpine
+Delhi
+Ladera Ranch
+Orangevale
+Santa Clarita
+Altadena
+Desert Hot Springs
+Lafayette
+Orcutt
+Santa Cruz
+Alum Rock
+Diamond Bar
+Laguna
+Orinda
+Santa Fe Springs
+American Canyon
+Diamond Springs
+Laguna Beach
+Oroville
+Santa Maria
+Anaheim
+Dinuba
+Laguna Hills
+Oxnard
+Santa Monica
+Antelope
+Discovery Bay
+Laguna Niguel
+Oxnard Shores
+Santa Paula
+Antioch
+Dixon
+Laguna Woods
+Pacific Grove
+Santa Rosa
+Apple Valley
+Downey
+Lake Arrowhead
+Pacifica
+Santee
+Arcadia
+Duarte
+Lake Elsinore
+Palm Desert
+Saratoga
+Arcata
+Dublin
+Lake Forest
+Palm Springs
+Scotts Valley
+Arden-Arcade
+East Hemet
+Lake Los Angeles
+Palmdale
+Seal Beach
+Arroyo Grande
+East Los Angeles
+Lakeland Village
+Palo Alto
+Seaside
+Artesia
+East Palo Alto
+Lakeside
+Palos Verdes Estates
+Selma
+Arvin
+East Rancho Dominguez
+Lakewood
+Paradise
+Shafter
+Ashland
+East San Gabriel
+Lamont
+Paramount
+Shasta Lake
+Atascadero
+El Cajon
+Lancaster
+Parkway
+Sherman Oaks
+Atwater
+El Centro
+Larkspur
+Parlier
+Sierra Madre
+Auburn
+El Cerrito
+Lathrop
+Pasadena
+Signal Hill
+Avenal
+El Dorado Hills
+Lawndale
+Paso Robles
+Simi Valley
+Avocado Heights
+El Monte
+Lemon Grove
+Patterson
+Solana Beach
+Azusa
+El Segundo
+Lemoore
+Pedley
+Soledad
+Bakersfield
+El Sobrante
+Lennox
+Perris
+Sonoma
+Baldwin Park
+Elk Grove
+Lincoln
+Petaluma
+South El Monte
+Banning
+Emeryville
+Linda
+Phelan
+South Gate
+Barstow
+Encinitas
+Lindsay
+Pico Rivera
+South Lake Tahoe
+Barstow Heights
+Escondido
+Live Oak
+Piedmont
+South Pasadena
+Bay Point
+Eureka
+Livermore
+Pinole
+South San Francisco
+Bayside
+Exeter
+Livingston
+Pittsburg
+South San Jose Hills
+Beaumont
+Fair Oaks
+Lodi
+Placentia
+South Whittier
+Bell
+Fairfield
+Loma Linda
+Placerville
+South Yuba City
+Bell Gardens
+Fairview
+Lomita
+Pleasant Hill
+Spring Valley
+Bellflower
+Fallbrook
+Lompoc
+Pleasanton
+Stanford
+Belmont
+Farmersville
+Long Beach
+Pomona
+Stanton
+Benicia
+Fillmore
+Los Alamitos
+Port Hueneme
+Stockton
+Berkeley
+Florence-Graham
+Los Altos
+Porterville
+Suisun
+Beverly Hills
+Florin
+Los Angeles
+Poway
+Sun City
+Big Bear City
+Folsom
+Los Banos
+Prunedale
+Sunnyvale
+Bloomington
+Fontana
+Los Gatos
+Quartz Hill
+Susanville
+Blythe
+Foothill Farms
+Los Osos
+Ramona
+Tamalpais-Homestead Valley
+Bonita
+Foothill Ranch
+Lynwood
+Rancho Cordova
+Tehachapi
+Bostonia
+Fortuna
+Madera
+Rancho Cucamonga
+Temecula
+Brawley
+Foster City
+Magalia
+Rancho Mirage
+Temple City
+Brea
+Fountain Valley
+Malibu
+Rancho Palos Verdes
+Thousand Oaks
+Brentwood
+Fremont
+Malibu Beach
+Rancho San Diego
+Torrance
+Buena Park
+Fresno
+Manhattan Beach
+Rancho Santa Margarita
+Tracy
+Burbank
+Fullerton
+Manteca
+Red Bluff
+Truckee
+Burlingame
+Galt
+Marina
+Redding
+Tulare
+Calabasas
+Garden Acres
+Martinez
+Redlands
+Turlock
+Calexico
+Garden Grove
+Marysville
+Redondo Beach
+Tustin
+California City
+Gardena
+Maywood
+Redwood City
+Twentynine Palms
+Camarillo
+Gilroy
+McFarland
+Reedley
+Ukiah
+Cameron Park
+Glen Avon
+McKinleyville
+Rialto
+Union City
+Camp Pendleton South
+Glendale
+Mead Valley
+Richmond
+Universal City
+Campbell
+Glendora
+Mendota
+Ridgecrest
+Upland
+Canyon Lake
+Goleta
+Menifee
+Rio Linda
+Vacaville
+Carlsbad
+Grand Terrace
+Menlo Park
+Ripon
+Valinda
+Carmichael
+Granite Bay
+Merced
+Riverbank
+Valle Vista
+Carpinteria
+Grass Valley
+Mill Valley
+Riverside
+Vallejo
+Carson
+Greenfield
+Millbrae
+Rocklin
+Ventura
+Casa de Oro-Mount Helix
+Grover Beach
+Milpitas
+Rohnert Park
+Victorville
+Castaic
+Hacienda Heights
+Mira Loma
+Rosamond
+View Park-Windsor Hills
+Castro Valley
+Half Moon Bay
+Mission Viejo
+Rosedale
+Vincent
+Cathedral City
+Hanford
+Modesto
+Rosemead
+Vineyard
+Ceres
+Hawaiian Gardens
+Monrovia
+Rosemont
+Visalia
+Cerritos
+Hawthorne
+Montclair
+Roseville
+Vista
+Cherryland
+Hayward
+Montebello
+Rossmoor
+Walnut
+Chico
+Healdsburg
+Monterey
+Rowland Heights
+Walnut Creek
+Chino
+Hemet
+Monterey Park
+Rubidoux
+Walnut Park
+Chino Hills
+Hercules
+Moorpark
+Sacramento
+Wasco
+Chowchilla
+Hermosa Beach
+Moraga
+Salida
+Watsonville
+Chula Vista
+Hesperia
+Moreno Valley
+Salinas
+West Carson
+Citrus
+Highland
+Morgan Hill
+San Anselmo
+West Covina
+Citrus Heights
+Hillsborough
+Morro Bay
+San Bernardino
+West Hills
+Claremont
+Hollister
+Mountain View
+San Bruno
+West Hollywood
+Clayton
+Hollywood
+Murrieta
+San Carlos
+West Puente Valley
+Clearlake
+Home Gardens
+Muscoy
+San Clemente
+West Sacramento
+Clovis
+Huntington Beach
+Napa
+San Diego
+West Whittier-Los Nietos
+Coachella
+Huntington Park
+National City
+San Diego Country Estates
+Westminster
+Coalinga
+Imperial
+Newark
+San Dimas
+Westmont
+Colton
+Imperial Beach
+Newman
+San Fernando
+Whittier
+Commerce
+Indio
+Newport Beach
+San Francisco
+Wildomar
+Compton
+Inglewood
+Nipomo
+San Gabriel
+Willowbrook
+Concord
+Irvine
+Norco
+San Jacinto
+Windsor
+Corcoran
+Isla Vista
+North Auburn
+San Jose
+Winter Gardens
+Corona
+Kerman
+North Fair Oaks
+San Juan Capistrano
+Winton
+Coronado
+King City
+North Glendale
+San Leandro
+Woodcrest
+Costa Mesa
+Kingsburg
+North Highlands
+San Lorenzo
+Woodland
+Coto De Caza
+La Canada Flintridge
+North Tustin
+San Luis Obispo
+Yorba Linda
+Covina
+La Crescenta-Montrose
+Norwalk
+San Marcos
+Yuba City
+Crestline
+La Habra
+Novato
+San Marino
+Yucaipa
+Cudahy
+La Jolla
+Oak Park
+San Mateo
+Yucca Valley
+Culver City

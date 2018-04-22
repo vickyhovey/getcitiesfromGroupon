@@ -1,0 +1,96 @@
+Acworth
+Covington
+Grovetown
+Moultrie
+Scottdale
+Albany
+Cusseta
+Hinesville
+Mountain Park
+Smyrna
+Alpharetta
+Dallas
+Jesup
+Newnan
+Snellville
+Americus
+Dalton
+Johns Creek
+North Atlanta
+Statesboro
+Athens
+Decatur
+Kennesaw
+North Decatur
+Stockbridge
+Atlanta
+Douglas
+Kingsland
+North Druid Hills
+Sugar Hill
+Augusta
+Douglasville
+La Grange
+Peachtree City
+Suwanee
+Bainbridge
+Druid Hills
+Lawrenceville
+Perry
+Thomasville
+Belvedere Park
+Dublin
+Lilburn
+Pooler
+Tifton
+Brunswick
+Duluth
+Lithia Springs
+Powder Springs
+Tucker
+Buford
+Dunwoody
+Loganville
+Redan
+Union City
+Calhoun
+East Point
+Mableton
+Riverdale
+Valdosta
+Candler-McAfee
+Evans
+Macon
+Rome
+Vidalia
+Canton
+Fairburn
+Marietta
+Roswell
+Villa Rica
+Carrollton
+Fayetteville
+Martinez
+Saint Marys
+Warner Robins
+Cartersville
+Forest Park
+McDonough
+Saint Simon Mills
+Waycross
+College Park
+Gainesville
+Milledgeville
+Saint Simons
+Wilmington Island
+Columbus
+Georgetown
+Milton
+Sandy Springs
+Winder
+Conyers
+Griffin
+Monroe
+Savannah
+Woodstock
+Cordele

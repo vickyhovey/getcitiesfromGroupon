@@ -1,0 +1,65 @@
+Alabaster
+Daphne
+Gardendale
+Mobile
+Prattville
+Albertville
+Decatur
+Hartselle
+Montgomery
+Prichard
+Alexander City
+Dothan
+Helena
+Moody
+Saks
+Anniston
+East Florence
+Homewood
+Mountain Brook
+Saraland
+Athens
+Enterprise
+Hoover
+Muscle Shoals
+Scottsboro
+Atmore
+Eufaula
+Hueytown
+Northport
+Selma
+Auburn
+Fairfield
+Huntsville
+Opelika
+Sylacauga
+Bessemer
+Fairhope
+Irondale
+Oxford
+Talladega
+Birmingham
+Florence
+Jacksonville
+Ozark
+Tillmans Corner
+Calera
+Foley
+Jasper
+Pelham
+Troy
+Center Point
+Forestdale
+Leeds
+Pell City
+Trussville
+Chelsea
+Fort Payne
+Madison
+Phenix City
+Tuscaloosa
+Cullman
+Gadsden
+Millbrook
+Pleasant Grove
+Vestavia Hills

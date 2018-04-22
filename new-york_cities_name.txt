@@ -1,0 +1,200 @@
+Albany
+Eastchester
+Jericho
+New York City
+Saint James
+Amsterdam
+Eggertsville
+Johnson City
+Newburgh
+Salisbury
+Auburn
+Elmira
+Kenmore
+Niagara Falls
+Saratoga Springs
+Babylon
+Elmont
+Kings Park
+North Amityville
+Sayville
+Baldwin
+Elwood
+Kingston
+North Babylon
+Scarsdale
+Batavia
+Endicott
+Kiryas Joel
+North Bay Shore
+Schenectady
+Bay Shore
+Endwell
+Lackawanna
+North Bellmore
+Seaford
+Beacon
+Fairmount
+Lake Grove
+North Bellport
+Selden
+Bellmore
+Farmingville
+Lake Ronkonkoma
+North Lindenhurst
+Setauket-East Setauket
+Bensonhurst
+Floral Park
+Lancaster
+North Massapequa
+Shirley
+Bethpage
+Fort Drum
+Levittown
+North Merrick
+Smithtown
+Binghamton
+Fort Salonga
+Lindenhurst
+North New Hyde Park
+South Farmingdale
+Bohemia
+Franklin Square
+Lockport
+North Tonawanda
+Spring Valley
+Brentwood
+Fredonia
+Long Beach
+North Valley Stream
+Stony Brook
+Brighton
+Freeport
+Long Island City
+North Wantagh
+Stony Point
+Brooklyn
+Fulton
+Lynbrook
+Oceanside
+Suffern
+Buffalo
+Garden City
+Mamaroneck
+Ogdensburg
+Syosset
+Canandaigua
+Geneva
+Manhattan
+Olean
+Syracuse
+Centereach
+Glen Cove
+Manorville
+Oneida
+Tarrytown
+Central Islip
+Glens Falls
+Massapequa
+Oneonta
+Terryville
+Cheektowaga
+Gloversville
+Massapequa Park
+Ossining
+Tonawanda
+Cohoes
+Greece
+Massena
+Oswego
+Troy
+Commack
+Greenburgh
+Mastic
+Patchogue
+Uniondale
+Coney Island
+Greenlawn
+Mastic Beach
+Pearl River
+Utica
+Copiague
+Hampton Bays
+Medford
+Peekskill
+Valley Stream
+Coram
+Harrison
+Melville
+Plainview
+Wantagh
+Corning
+Hauppauge
+Merrick
+Plattsburgh
+Watertown
+Cortland
+Haverstraw
+Middle Island
+Port Chester
+Watervliet
+Deer Park
+Hempstead
+Middletown
+Port Washington
+West Albany
+Depew
+Hicksville
+Miller Place
+Poughkeepsie
+West Babylon
+Dix Hills
+Holbrook
+Mineola
+Ridge
+West Haverstraw
+Dobbs Ferry
+Holtsville
+Monsey
+Riverhead
+West Hempstead
+Dunkirk
+Huntington
+Mount Kisco
+Rochester
+West Islip
+East Islip
+Huntington Station
+Mount Sinai
+Rockville Centre
+West Seneca
+East Massapequa
+Inwood
+Mount Vernon
+Rocky Point
+Westbury
+East Meadow
+Irondequoit
+Nanuet
+Rome
+White Plains
+East New York
+Islip
+Nesconset
+Ronkonkoma
+Woodbury
+East Northport
+Ithaca
+New Cassel
+Roosevelt
+Woodmere
+East Patchogue
+Jamestown
+New City
+Rotterdam
+Wyandanch
+East Setauket
+Jefferson Valley-Yorktown
+New Rochelle
+Rye
+Yonkers

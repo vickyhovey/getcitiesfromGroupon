@@ -1,0 +1,67 @@
+Anthem
+Douglas
+Kingman
+Prescott
+Sun City
+Apache Junction
+Drexel Heights
+Lake Havasu City
+Prescott Valley
+Sun City West
+Arizona City
+El Mirage
+Marana
+Queen Creek
+Sun Lakes
+Avondale
+Eloy
+Maricopa
+Rio Rico
+Surprise
+Buckeye
+Flagstaff
+Mesa
+Sahuarita
+Tanque Verde
+Bullhead City
+Florence
+New Kingman-Butler
+San Luis
+Tempe
+Camp Verde
+Flowing Wells
+New River
+San Tan Valley
+Tempe Junction
+Casa Grande
+Fortuna Foothills
+Nogales
+Scottsdale
+Tucson
+Casas Adobes
+Fountain Hills
+Oro Valley
+Sedona
+Tucson Estates
+Catalina Foothills
+Gilbert
+Paradise Valley
+Show Low
+Vail
+Chandler
+Glendale
+Payson
+Sierra Vista
+Verde Village
+Chino Valley
+Gold Camp
+Peoria
+Sierra Vista Southeast
+West Sedona
+Coolidge
+Goodyear
+Phoenix
+Somerton
+Yuma
+Cottonwood
+Green Valley
